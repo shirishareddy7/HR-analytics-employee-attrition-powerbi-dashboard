@@ -13,7 +13,8 @@ To leverage Power BI for analyzing employee data and uncovering insights related
 ## 📂 Dataset Used
 - HR_1 & HR_2 datasets  
 - Data Type: Structured HR Data (Excel Source)  
-- Volume: 50K+ records per dataset  
+- Volume: 50K+ records per dataset
+- <a href="https://github.com/shirishareddy7/HR-analytics-employee-attrition-powerbi-dashboard/blob/main/HR%20Analytics%20Project%20-%20PowerBI.pbix%20">Dataset</a>
 
 ---
 
